@@ -1,4 +1,4 @@
-# Bulls-and-Cows-game
+
 secret_number = '5372'
 counter = 0
 print('My secret number is with 4 different digits from 1 to 9.\
